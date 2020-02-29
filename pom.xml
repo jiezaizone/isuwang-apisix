@@ -19,7 +19,7 @@
       <artifactId>docker-maven-plugin</artifactId>
       <version>0.4.10</version>
       <configuration>
-        <imageName>docker.oa.isuwang.com:5000/system/isuwang-apisix:master</imageName>
+        <imageName>docker.xx.com/system/apisix:master</imageName>
         <dockerDirectory>${basedir}</dockerDirectory>
       </configuration>
       <executions>
